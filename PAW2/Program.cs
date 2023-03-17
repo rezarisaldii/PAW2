@@ -23,17 +23,17 @@ namespace PAW2
                 //menampilkan menu makanan
                 Console.WriteLine("=============Makanan=============");
                 Console.Write("\n");
-                Console.WriteLine("1. Magelangan            : Rp 10000");
-                Console.WriteLine("2. Mie Goreng            : Rp  8000");
-                Console.WriteLine("3. Roti Bakar pisang     : Rp 10000");
-                Console.WriteLine("4. Ayam Goreng           : Rp  5000");
+                Console.WriteLine("1. Magelangan            : Rp. 10000");
+                Console.WriteLine("2. Mie Goreng            : Rp.  8000");
+                Console.WriteLine("3. Roti Bakar pisang     : Rp. 10000");
+                Console.WriteLine("4. Ayam Goreng           : Rp.  5000");
                 Console.Write("\n");
                 //menampilkan menu minuman 
                 Console.WriteLine("=============Minuman=============");
-                Console.WriteLine("1. Thai Tea              : Rp 10000");
-                Console.WriteLine("2. Jus                   : Rp  6000");
-                Console.WriteLine("3. Vanilla Latte         : Rp 40000");
-                Console.WriteLine("4. Kopi Mocha            : Rp 45000");
+                Console.WriteLine("1. Thai Tea              : Rp. 10000");
+                Console.WriteLine("2. Jus                   : Rp.  6000");
+                Console.WriteLine("3. Vanilla Latte         : Rp. 40000");
+                Console.WriteLine("4. Kopi Mocha            : Rp. 45000");
 
                 int jumlah;
                 //Looping dengan memasukkan jumlah barang menggunakan kondisi doo while
