@@ -16,7 +16,7 @@ namespace PAW2
                 Console.WriteLine("+=========================================+");
                 Console.WriteLine("     Program Kasir Cafe Sederhana          ");
                 Console.WriteLine("             Cafe Ganteng                  ");
-                Console.WriteLine("+=========================================+");
+                Console.WriteLine("+==========================================+");
                 Console.Write("\n");
                 Console.WriteLine("  Silakan Memilih Item Dari Menu  ");
                 Console.Write("\n");
