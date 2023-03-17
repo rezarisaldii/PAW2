@@ -1,0 +1,11 @@
+digraph "PAW2/Properties"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  compound=true
+  subgraph clusterdir_d279ba41ec60a4c70f0bdcb0b40940e8 {
+    graph [ bgcolor="#edf0f7", pencolor="grey25", style="filled,dashed,", label="PAW2", fontname="Helvetica", fontsize="10", URL="dir_d279ba41ec60a4c70f0bdcb0b40940e8.html"]
+  dir_4f85c1965057fe6be2a4fa6590c1b3b1 [shape=box, label="Properties", style="filled,bold,", fillcolor="#edf0f7", color="grey25", URL="dir_4f85c1965057fe6be2a4fa6590c1b3b1.html"];
+  }
+}
